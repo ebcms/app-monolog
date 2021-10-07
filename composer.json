@@ -1,0 +1,10 @@
+{
+    "name": "ebcms/monolog",
+    "description": "monolog日志记录器",
+    "type": "ebcms-app",
+    "license": "Apache-2.0",
+    "require": {
+        "ebcms/framework": "^2.0",
+        "monolog/monolog": "^2.0"
+    }
+}
